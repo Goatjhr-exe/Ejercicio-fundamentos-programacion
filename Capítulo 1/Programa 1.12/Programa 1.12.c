@@ -13,7 +13,7 @@ void main(void)
 
     ++l;
 
-    /* Error que no entiendo en la línea de abajo. */
+    /* error preguntare en clase */
 
     --k -= l++ * 2;
     printf("\nEl valor de k es: %d", k);
